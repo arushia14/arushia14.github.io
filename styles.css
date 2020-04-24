@@ -14,6 +14,7 @@
     background-attachment: fixed;
 }
 
+
 .name {
     font-family: 'Martel', serif;
     font-size: 5rem;
@@ -188,6 +189,22 @@ footer p {
     padding: 10px;
     color: darkcyan;
 }
+
+
+@media (max-width: 767px) {
+.top {
+
+    background-attachment: initial;
+
+}
+    .skill-head {
+
+    background-attachment: initial;
+
+}
+}
+
+
 
 
 .tracking-in-expand {
