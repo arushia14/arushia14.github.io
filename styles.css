@@ -4,6 +4,7 @@
     box-sizing: border-box;
     overflow-wrap: break-word;
     font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
 }
 
 .top {
