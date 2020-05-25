@@ -19,7 +19,7 @@
 .name {
     font-family: 'Martel', serif;
     font-size: 5rem;
-    overflow: hidden;
+    overflow-y: hidden;
 }
 
 
