@@ -174,8 +174,8 @@
 
 
 .social-icon:hover {
-    opacity: 0.6;
-    transition: 0.2s ease-in;
+    border-radius: 50;
+    transition: 0.3s ease-in;
 }
 
 .social-media {
